@@ -12,8 +12,7 @@ public class Main {
     persona.setTelefono(978517928);
     int telefono = persona.getTelefono();
     System.out.println(telefono);
-    //persona.nombre = "Manuel";
-    //persona.telefono = 5697864738;
+    
   }
 }
 
